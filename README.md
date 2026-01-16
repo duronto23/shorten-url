@@ -36,7 +36,7 @@ go mod tidy
 Run the application:
 
 ```bash
-go run ./...
+go run ./api/main.go
 ```
 
 If you prefer Docker:
